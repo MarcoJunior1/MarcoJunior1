@@ -1,12 +1,11 @@
 <div align="center">
-  <!-- Imagem verde no topo -->
   <img src="assets/casaroVerde.gif" alt="Casaro Verde Terminal" width="70%" />
 </div>
 
 <br>
 
-# 👨‍💻 Olá, eu sou Marco Júnior
-### 🚀 DevSecOps | Engenheiro de Software | Entusiasta de IA
+# Olá, eu sou Marco Júnior
+### DevSecOps | Engenheiro de Software | Entusiasta de IA
 
 Sou apaixonado por tecnologia, segurança, automação e inteligência artificial. Crio soluções que integram o melhor do desenvolvimento com a confiabilidade e segurança que o mundo moderno exige.
 
@@ -19,26 +18,24 @@ Sou apaixonado por tecnologia, segurança, automação e inteligência artificia
 ---
 
 <div align="center">
-  <!-- Casaro Olho -->
   <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="60%" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Casaro Estrela -->
   <img src="assets/casaroEstrela.gif" alt="Casaro Estrela" width="60%" />
 </div>
 
 ---
 
-## 🌟 Projeto em Destaque: Casaro - AI Voice Assistant
-**O Casaro é meu assistente de IA desktop em Python.**
+## Projeto em Destaque: Casaro - AI Voice Assistant
+O Casaro é meu assistente de IA desktop em Python.
 Veja o repositório oficial: [ai-voice-assistant-desktop-python](https://github.com/MarcoJunior1/ai-voice-assistant-desktop-python)
 
 ---
 
-## 🛠️ Tecnologias e Arsenal
+## Tecnologias e Arsenal
 
 <p align="center">
   <!-- Linguagens -->
@@ -87,15 +84,13 @@ Veja o repositório oficial: [ai-voice-assistant-desktop-python](https://github.
 
 ---
 
-## 📈 Estatísticas do GitHub (Animações e Commits)
+## Estatísticas do GitHub (Animações e Commits)
 
 <div align="center">
-  <!-- Stats com tema Dark / Roxo -->
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoJunior1&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=8a2be2&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoJunior1&theme=dark&background=0D0D0D&ring=8a2be2&fire=8a2be2&currStreakLabel=ffffff" alt="GitHub Streak" />
   <br><br>
-  <!-- Gráfico de commits animado em formato de snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcoJunior1/MarcoJunior1/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcoJunior1/MarcoJunior1/output/github-contribution-grid-snake.svg">
