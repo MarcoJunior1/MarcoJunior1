@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/casaroVerde.gif" alt="Casaro Verde Terminal" width="70%" />
+  <img src="assets/casaroVerde.jpg" alt="Casaro Verde Terminal" width="70%" />
 </div>
 
 <br>
