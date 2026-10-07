@@ -1,14 +1,9 @@
 <div align="center">
   <!-- Imagem verde no topo -->
-  <img src="assets/casaroVerde.jpg" alt="Casaro Verde Terminal" width="100%" />
+  <img src="assets/casaroVerde.gif" alt="Casaro Verde Terminal" width="70%" />
 </div>
 
 <br>
-
-<div align="right">
-  <!-- Sua foto alinhada à direita e pequena -->
-  <img src="assets/fotoMarco.png" alt="Marco Júnior" width="120" style="border-radius: 50%; border: 3px solid #8a2be2;" />
-</div>
 
 # 👨‍💻 Olá, eu sou Marco Júnior
 ### 🚀 DevSecOps | Engenheiro de Software | Entusiasta de IA
@@ -24,15 +19,15 @@ Sou apaixonado por tecnologia, segurança, automação e inteligência artificia
 ---
 
 <div align="center">
-  <!-- Casaro Olho (bem grande) -->
-  <img src="assets/casaroOlho.png" alt="Casaro Olho" width="100%" />
+  <!-- Casaro Olho -->
+  <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="60%" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Casaro Estrela -->
-  <img src="assets/casaroEstrela.png" alt="Casaro Estrela" width="100%" />
+  <img src="assets/casaroEstrela.gif" alt="Casaro Estrela" width="60%" />
 </div>
 
 ---
