@@ -8,11 +8,16 @@ on:
     branches:
     - main
 
+# Necessário para permitir que o bot faça commit do arquivo gerado
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Atualizado para a v4 para resolver o aviso do Node.js 20
+      - uses: actions/checkout@v4
       
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
