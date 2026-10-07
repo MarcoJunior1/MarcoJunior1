@@ -21,12 +21,6 @@ Sou apaixonado por tecnologia, segurança, automação e inteligência artificia
   <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="60%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="assets/casaroEstrela.gif" alt="Casaro Estrela" width="60%" />
-</div>
-
 ---
 
 ## Projeto em Destaque: Casaro - AI Voice Assistant
