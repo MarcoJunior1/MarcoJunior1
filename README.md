@@ -94,7 +94,13 @@ Veja o repositório oficial: [ai-voice-assistant-desktop-python](https://github.
 
 ---
 
-## Estatísticas do GitHub (Animações e Commits)
+## Estatísticas e Atividade de Commits
+
+<div align="center">
+  <img src="mario_contribution.svg" alt="Mario Contribution Graph" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoJunior1&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
@@ -102,12 +108,6 @@ Veja o repositório oficial: [ai-voice-assistant-desktop-python](https://github.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoJunior1&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoJunior1&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcoJunior1/MarcoJunior1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcoJunior1/MarcoJunior1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcoJunior1/MarcoJunior1/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br>
