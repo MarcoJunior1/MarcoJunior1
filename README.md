@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="70%" />
+  <img src="assets/profile-banner.svg" alt="Casaro Olho" width="70%" />
 </div>
 
 <br>
