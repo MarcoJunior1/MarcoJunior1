@@ -44,14 +44,6 @@ Sou apaixonado por tecnologia, automação e inteligência artificial. Crio solu
 
 ---
 
-## Painel em Tempo Real: Monitoramento Casaro AI
-
-<div align="center">
-  <img src="casaro_status.svg" alt="Status do Casaro AI" width="100%" />
-</div>
-
----
-
 ## Projeto em Destaque: Casaro - AI Voice Assistant
 O Casaro é meu assistente de IA desktop em Python.
 Veja o repositório oficial: [ai-voice-assistant-desktop-python](https://github.com/MarcoJunior1/ai-voice-assistant-desktop-python)
