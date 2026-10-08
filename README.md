@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/casaroVerde.jpg" alt="Casaro Verde Terminal" width="80%" />
+  <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="70%" />
 </div>
 
 <br>
@@ -16,12 +16,6 @@ Sou apaixonado por tecnologia, segurança, automação e inteligência artificia
   <a href="https://www.instagram.com/marcojr.tec/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="70%" />
 </div>
 
 ---
