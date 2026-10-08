@@ -4,10 +4,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Marco%20Júnior%20|%20DevSecOps&fontSize=32&fontColor=ffffff" width="100%" />
-</div>
-
 ### DevSecOps | Engenheiro de Software | Entusiasta de IA
 
 Sou apaixonado por tecnologia, segurança, automação e inteligência artificial. Crio soluções que integram o melhor do desenvolvimento com a confiabilidade e segurança que o mundo moderno exige.
