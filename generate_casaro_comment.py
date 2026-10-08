@@ -29,7 +29,7 @@ def fetch_latest_activity(username):
     except Exception as e:
         print(f"Erro ao buscar atividades: {e}")
         
-    return "MarcoJunior1/MarcoJunior1", "Manutenção e melhorias contínuas no perfil DevSecOps"
+    return "MarcoJunior1/MarcoJunior1", "Manutenção e melhorias contínuas no perfil"
 
 def escape_xml(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
@@ -57,7 +57,7 @@ def generate_svg():
   <circle cx="32" cy="30" r="5" fill="#FF5F56"/>
   <circle cx="47" cy="30" r="5" fill="#FFBD2E"/>
   <circle cx="62" cy="30" r="5" fill="#27C93F"/>
-  <text x="80" y="34" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold">CASARO AI // MONITOR DEVOPS &amp; SEGURANÇA</text>
+  <text x="80" y="34" fill="#A855F7" font-family="'Courier New', monospace" font-size="12" font-weight="bold">CASARO AI // MONITOR DE ATIVIDADES</text>
   <text x="530" y="34" fill="#27C93F" font-family="'Courier New', monospace" font-size="11" font-weight="bold">[ONLINE]</text>
 
   <!-- Console Output -->
@@ -68,7 +68,7 @@ def generate_svg():
   <text x="195" y="95" fill="#F3E8FF" font-family="'Courier New', monospace" font-size="12">"{commit_msg_esc}"</text>
   
   <text x="25" y="120" fill="#A0A0B0" font-family="'Courier New', monospace" font-size="12">> PARECER DO CASARO:</text>
-  <text x="195" y="120" fill="#22C55E" font-family="'Courier New', monospace" font-size="12" font-weight="bold">DevSecOps OK | Código verificado e integrado</text>
+  <text x="195" y="120" fill="#22C55E" font-family="'Courier New', monospace" font-size="12" font-weight="bold">Código verificado e integrado com sucesso</text>
   
   <!-- Footer Timestamp -->
   <text x="25" y="150" fill="#6B7280" font-family="'Courier New', monospace" font-size="10">Última checagem automática: {now}</text>

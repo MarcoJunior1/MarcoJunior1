@@ -11,12 +11,12 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Marco%20Júnior%20|%20DevSecOps&fontSize=32&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Marco%20Júnior%20|%20Software%20Engineer&fontSize=32&fontColor=ffffff" width="100%" />
 </div>
 
-### DevSecOps | Engenheiro de Software | Entusiasta de IA
+### Engenheiro de Software | Desenvolvedor FullStack | Entusiasta de IA
 
-Sou apaixonado por tecnologia, segurança, automação e inteligência artificial. Crio soluções que integram o melhor do desenvolvimento com a confiabilidade e segurança que o mundo moderno exige.
+Sou apaixonado por tecnologia, automação e inteligência artificial. Crio soluções inteligentes integrando o melhor do desenvolvimento moderno e a experiência do usuário.
 
 <div align="left">
   <a href="https://www.instagram.com/marcojr.tec/" target="_blank">
@@ -26,24 +26,11 @@ Sou apaixonado por tecnologia, segurança, automação e inteligência artificia
 
 ---
 
-## Painel em Tempo Real: Monitoramento DevSecOps (Casaro AI)
+## Painel em Tempo Real: Monitoramento Casaro AI
 
 <div align="center">
   <img src="casaro_status.svg" alt="Status do Casaro AI" width="100%" />
 </div>
-
----
-
-## DevSecOps em Prática no Repositório
-
-<p align="center">
-  <a href="SECURITY.md">
-    <img src="https://img.shields.io/badge/Security_Policy-SECURITY.md-8a2be2?style=for-the-badge&logo=githubactions&logoColor=white" alt="Security Policy" />
-  </a>
-  <img src="https://img.shields.io/badge/CodeQL-SAST_Active-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="CodeQL SAST" />
-  <img src="https://img.shields.io/badge/Dependabot-SCA_Active-025E8A?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot" />
-  <img src="https://img.shields.io/badge/Secret_Scanning-Enabled-000000?style=for-the-badge&logo=github&logoColor=8a2be2" alt="Secret Scanning" />
-</p>
 
 ---
 
