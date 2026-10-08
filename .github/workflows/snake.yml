@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Atualizado para a v4 para resolver o aviso do Node.js 20
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
