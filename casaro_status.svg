@@ -11,7 +11,7 @@
 
   <!-- Console Output -->
   <text x="25" y="70" fill="#A0A0B0" font-family="'Courier New', monospace" font-size="12">> ÚLTIMA ATIVIDADE REGISTRADA:</text>
-  <text x="235" y="70" fill="#38BDF8" font-family="'Courier New', monospace" font-size="12" font-weight="bold">MarcoJunior1/NexyCorp</text>
+  <text x="235" y="70" fill="#38BDF8" font-family="'Courier New', monospace" font-size="12" font-weight="bold">MarcoJunior1/nutrition-platform-...</text>
   
   <text x="25" y="95" fill="#A0A0B0" font-family="'Courier New', monospace" font-size="12">> MENSAGEM DO COMMIT:</text>
   <text x="195" y="95" fill="#F3E8FF" font-family="'Courier New', monospace" font-size="12">"Push de alterações"</text>
@@ -20,5 +20,5 @@
   <text x="195" y="120" fill="#22C55E" font-family="'Courier New', monospace" font-size="12" font-weight="bold">DevSecOps OK | Código verificado e integrado</text>
   
   <!-- Footer Timestamp -->
-  <text x="25" y="150" fill="#6B7280" font-family="'Courier New', monospace" font-size="10">Última checagem automática: 2026-10-08 01:29 UTC</text>
+  <text x="25" y="150" fill="#6B7280" font-family="'Courier New', monospace" font-size="10">Última checagem automática: 2026-10-08 01:33 UTC</text>
 </svg>
