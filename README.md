@@ -26,6 +26,24 @@ Sou apaixonado por tecnologia, automação e inteligência artificial. Crio solu
 
 ---
 
+## Portfolio & Currículo Interativo
+
+<div align="center">
+  <a href="https://marcojuniorcv.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar_Meu_Site-marcojuniorcv.netlify.app-8a2be2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://marcojuniorcv.netlify.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D15&height=80&section=header&text=Clique%20aqui%20para%20visitar%20meu%20Portfolio%20e%20CV%20Interativo&fontSize=20&fontColor=38BDF8&stroke=8a2be2&strokeWidth=1" width="100%" />
+  </a>
+</div>
+
+---
+
 ## Painel em Tempo Real: Monitoramento Casaro AI
 
 <div align="center">
