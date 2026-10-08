@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="assets/profile-banner.svg" alt="Casaro SVG Animado" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="assets/casaroOlho.gif" alt="Casaro Olho" width="70%" />
 </div>
 
