@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="assets/2.png" alt="Marco Engenheiro" width="100%" />
+</div>
+
+
+<div align="center">
   <img src="assets/profile-banner.svg" alt="Casaro SVG Animado" width="100%" />
 </div>
 
