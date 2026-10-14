@@ -15,10 +15,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Marco%20Júnior%20|%20Software%20Engineer&fontSize=32&fontColor=ffffff" width="100%" />
-</div>
-
 ### Engenheiro de Software | Desenvolvedor FullStack | Entusiasta de IA
 
 Sou apaixonado por tecnologia, automação e inteligência artificial. Crio soluções inteligentes integrando o melhor do desenvolvimento moderno e a experiência do usuário.
